@@ -38,7 +38,7 @@ class PokeFetch extends Component {
       • not recommended though bc usually only used for special cases
   */
   componentDidMount() { 
-    
+    this.fetchPokemon();
   }
 
   /*
